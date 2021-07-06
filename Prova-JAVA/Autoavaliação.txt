@@ -1,0 +1,9 @@
+Meu objetivo com esse exercício era conseguir fazer um sistema de calculo de 
+rendimento baseado nos meses. Mexer com datas foi um pouco difícil pois
+nunca havia tentado explorar essa parte, então acabou consumindo muito tempo.
+Eu não queria fazer um código simples que eu ja estava acostumado, pois vi que
+estou conseguindo aplicar minha lógica muito bem. Tem muita coisa que eu poderia 
+fazer diferente e melhorar mas para não perder mais tempo com esse exercício decidi
+apenas fazer o que havida planejado no início.
+
+Nota 6/10 porque eu sei que poderia ter feito muito melhor.
